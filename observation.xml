@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExpFiles>
+ <NumberExpFiles>1</NumberExpFiles>
+ <file>
+     <FileNamesExpFiles>03.XCLASS_fit/spectra/SSC_1.LSB.dat</FileNamesExpFiles>
+     <ImportFilter>xclassASCII</ImportFilter>
+     <NumberExpRanges>1</NumberExpRanges>
+     <FrequencyRange>
+         <MinExpRange>342550.0</MinExpRange>
+         <MaxExpRange>346100.0</MaxExpRange>
+         <StepFrequency>2.50</StepFrequency>
+         <t_back_flag>False</t_back_flag>
+         <BackgroundTemperature>0.0</BackgroundTemperature>
+         <TemperatureSlope>0.0</TemperatureSlope>
+         <HydrogenColumnDensity>0.e+0</HydrogenColumnDensity>
+         <DustBeta>0.0</DustBeta>
+         <Kappa>0.0</Kappa>
+     </FrequencyRange>
+     <GlobalvLSR>0.0</GlobalvLSR>
+     <TelescopeSize>0.15</TelescopeSize>
+	  <Inter_Flag>True</Inter_Flag>
+	  <ErrorY>no</ErrorY>
+	  <NumberHeaderLines>0</NumberHeaderLines>
+	  <SeparatorColumns> </SeparatorColumns>
+ </file>
+ <file>
+     <FileNamesExpFiles>03.XCLASS_fit/spectra/SSC_1.USB.dat</FileNamesExpFiles>
+     <ImportFilter>xclassASCII</ImportFilter>
+     <NumberExpRanges>1</NumberExpRanges>
+     <FrequencyRange>
+         <MinExpRange>354450.0</MinExpRange>
+         <MaxExpRange>358000.0</MaxExpRange>
+         <StepFrequency>2.50</StepFrequency>
+         <t_back_flag>False</t_back_flag>
+         <BackgroundTemperature>0.0</BackgroundTemperature>
+         <TemperatureSlope>0.0</TemperatureSlope>
+         <HydrogenColumnDensity>0.e+0</HydrogenColumnDensity>
+         <DustBeta>0.0</DustBeta>
+         <Kappa>0.0</Kappa>
+     </FrequencyRange>
+     <GlobalvLSR>0.0</GlobalvLSR>
+     <TelescopeSize>0.15</TelescopeSize>
+	  <Inter_Flag>True</Inter_Flag>
+	  <ErrorY>no</ErrorY>
+	  <NumberHeaderLines>0</NumberHeaderLines>
+	  <SeparatorColumns> </SeparatorColumns>
+ </file>
+	  <iso_flag>False</iso_flag>
+</ExpFiles>
